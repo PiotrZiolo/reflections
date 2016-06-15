@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	I would use e-mail to exchange files and compare changes with WinMerge. This would give quite an overhead for writing and sending e-mails and merging everything manually.
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When I work on something experimental or on another functionality and many people are working on the code. It allows good code control through pull requests.

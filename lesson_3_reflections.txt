@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	There may be some changes made since our last pull, hence it's necessary to have the most recent copy of the remote and merge it into our code.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would use e-mail to exchange files and compare changes with WinMerge. This would give quite an overhead for writing and sending e-mails and merging everything manually.

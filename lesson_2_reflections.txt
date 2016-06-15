@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	I suppose that files in the staging area are not physically copied from the working directory, but only listed as staged. It gives the possibility to commit only a part of changes made to files. It allows to left unfinished work uncommited.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can use git diff --staged to be sure if there's just one logical change, and then I can commit.

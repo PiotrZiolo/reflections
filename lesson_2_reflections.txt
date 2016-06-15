@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	Git creates files with basic information about the repository. It allows to use other Git functions, e.g. commit.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	I suppose that files in the staging area are not physically copied from the working directory, but only listed as staged. It gives the possibility to commit only a part of changes made to files. It allows to left unfinished work uncommited.
